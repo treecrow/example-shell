@@ -1,3 +1,9 @@
-# shell-example
+# example-shell
 
 > shell 脚本学习,相关知识点整理
+
+| 命令                                    | more                                                       |
+| --------------------------------------- | ---------------------------------------------------------- |
+| [dd](http://man.linuxde.net/dd)         | 用于复制文件并对原文件的内容进行转换和格式化处理           |
+| [unlink](http://man.linuxde.net/unlink) | 删除指定的文件                                             |
+| [mv](http://man.linuxde.net/mv)         | 对文件或目录重新命名，或者将文件从一个目录移到另一个目录中 |
